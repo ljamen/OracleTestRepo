@@ -1,0 +1,2 @@
+Remember these are all shared files, 
+it doesn't matter if you edit them in your local machine, but once you run git push, everyone in the repo will see your changes.
